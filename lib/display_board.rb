@@ -15,3 +15,4 @@ divider = '-----------'
 puts cell
 puts divider
 end
+display_board
