@@ -14,7 +14,9 @@ cell = "   |   |   "
 divider = '-----------'
 puts cell
 puts divider
+puts cell
+puts divider
+puts cell
+puts divider
 end
-display_board
-display_board
-display_board
+
