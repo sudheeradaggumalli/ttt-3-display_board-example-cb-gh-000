@@ -10,7 +10,7 @@
 
 #display_board()
 def display_board
-cell = " | | "
+cell = "   |   |   "
 divider = '-----------'
 puts cell
 puts divider
