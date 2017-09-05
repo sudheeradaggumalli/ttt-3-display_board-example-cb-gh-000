@@ -10,7 +10,3 @@ def display_board
     puts #{row2}
 end
 display_board
-
-
-    
-
