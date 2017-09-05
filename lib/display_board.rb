@@ -19,4 +19,3 @@ puts divider
 puts cell
 puts divider
 end
-
