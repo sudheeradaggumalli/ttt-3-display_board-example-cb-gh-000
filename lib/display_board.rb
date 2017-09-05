@@ -2,7 +2,7 @@
 
 
 
-cell="   "
+cell=" "
 row1=cell+"|"+cell+"|"+cell
 row2="-----------"
 def display_board
